@@ -405,5 +405,4 @@ This project is provided as-is for educational and demonstration purposes.
 
 **⚠️ Important**: This infrastructure is designed for **development/testing**. Follow Azure security best practices and the Well-Architected Framework before deploying to production environments.
 
-**Author**: [Your Name]  
-**Last Updated**: November 29, 2025
+
